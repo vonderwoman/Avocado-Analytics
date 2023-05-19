@@ -2,7 +2,8 @@
 Develop data visualization using Dash
 
 Welcome to my Dash application! This application is built using Python and the Dash framework to create interactive and customizable data visualizations.
-![image](https://github.com/vonderwoman/Avocado-Analytics/assets/104657679/dfa21cd0-1195-4bad-ae06-e6f8620e524d)
+
+![video](https://github.com/vonderwoman/Avocado-Analytics/blob/main/assets/Avocado%20Analytics_%20Gif.gif)
 
 ## To get started with Dash, you'll need to follow these steps:
 
